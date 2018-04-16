@@ -1,0 +1,5 @@
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache

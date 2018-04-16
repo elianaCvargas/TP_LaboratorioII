@@ -1,0 +1,5 @@
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_2018_Vargas.exe.config
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_2018_Vargas.exe
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_2018_Vargas.pdb
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\TP_01_2018_Vargas\obj\Debug\TP_01_2018_Vargas.exe
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\TP_01_2018_Vargas\obj\Debug\TP_01_2018_Vargas.pdb

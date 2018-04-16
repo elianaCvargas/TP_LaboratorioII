@@ -1,0 +1,11 @@
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\bin\Debug\Entidades.dll
+D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\bin\Debug\Entidades.pdb

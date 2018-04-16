@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_01_2018_Vargas", "TP_01_2018_Vargas\TP_01_2018_Vargas.csproj", "{1F93AB72-C8EB-4E5B-B32C-DE25F1289B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{B1E3BD07-21B0-46DF-B7AA-A8264278A929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCalculadora", "MiCalculadora\MiCalculadora.csproj", "{75717223-D48F-47AA-BB1B-F904497181B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F93AB72-C8EB-4E5B-B32C-DE25F1289B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F93AB72-C8EB-4E5B-B32C-DE25F1289B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F93AB72-C8EB-4E5B-B32C-DE25F1289B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F93AB72-C8EB-4E5B-B32C-DE25F1289B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E3BD07-21B0-46DF-B7AA-A8264278A929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E3BD07-21B0-46DF-B7AA-A8264278A929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E3BD07-21B0-46DF-B7AA-A8264278A929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E3BD07-21B0-46DF-B7AA-A8264278A929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75717223-D48F-47AA-BB1B-F904497181B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75717223-D48F-47AA-BB1B-F904497181B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75717223-D48F-47AA-BB1B-F904497181B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75717223-D48F-47AA-BB1B-F904497181B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
