@@ -3,3 +3,15 @@ D:\VisualStudio Proyectos\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_20
 D:\VisualStudio Proyectos\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_2018_Vargas.pdb
 D:\VisualStudio Proyectos\TP_01_2018_Vargas\TP_01_2018_Vargas\obj\Debug\TP_01_2018_Vargas.exe
 D:\VisualStudio Proyectos\TP_01_2018_Vargas\TP_01_2018_Vargas\obj\Debug\TP_01_2018_Vargas.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_2018_Vargas.exe.config
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_2018_Vargas.exe
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_2018_Vargas.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\Entidades.dll
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\MiCalculadora.exe
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\Entidades.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\MiCalculadora.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\obj\Debug\TP_01_2018_Vargas.csprojResolveAssemblyReference.cache
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\obj\Debug\TP_01_2018_Vargas.exe
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\obj\Debug\TP_01_2018_Vargas.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_2018_Vargas.exe.CodeAnalysisLog.xml
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\TP_01_2018_Vargas\bin\Debug\TP_01_2018_Vargas.exe.lastcodeanalysissucceeded

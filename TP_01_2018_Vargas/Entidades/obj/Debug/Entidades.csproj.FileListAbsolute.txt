@@ -3,3 +3,9 @@ D:\VisualStudio Proyectos\TP_01_2018_Vargas\Entidades\bin\Debug\Entidades.pdb
 D:\VisualStudio Proyectos\TP_01_2018_Vargas\Entidades\obj\Debug\Entidades.dll
 D:\VisualStudio Proyectos\TP_01_2018_Vargas\Entidades\obj\Debug\Entidades.pdb
 D:\VisualStudio Proyectos\TP_01_2018_Vargas\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\Entidades\bin\Debug\Entidades.dll
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\Entidades\obj\Debug\Entidades.dll
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\Entidades\bin\Debug\Entidades.dll.CodeAnalysisLog.xml
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\Entidades\bin\Debug\Entidades.dll.lastcodeanalysissucceeded

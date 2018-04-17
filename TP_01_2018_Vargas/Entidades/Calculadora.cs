@@ -8,21 +8,32 @@ namespace Entidades
 {
     public class Calculadora
     {
-        public double Operar( Numero numeroUno, Numero numeroDos, String operador)
+        public double Operar( Numero numeroUno, Numero numeroDos, string operador)
         {
             double retorno = 0;
             string retornoOperador = ValidarOperador(operador);
-            switch (retornoOperador)
-            { 
+            switch (operador)
+            {
                 case "+":
-                   // retorno = Convert.ToDouble(numeroUno + numeroDos);
+                    retorno = numeroUno + numeroDos;
+                    break;
+                case "-":
+                    retorno = numeroUno - numeroDos;
+                    break;
+                case "*":
+                    retorno = numeroUno * numeroDos;
+                    break;
+                case "/":
+                    if (numeroUno != 0)
+                    {
+                        retorno = numeroUno / numeroDos;
+                    }
                     break;
             }
-
             return retorno;
-                  
+
         }
-        private static string ValidarOperador( String operador)
+        private static string ValidarOperador( string operador)
         {
             string retorno = "";
             

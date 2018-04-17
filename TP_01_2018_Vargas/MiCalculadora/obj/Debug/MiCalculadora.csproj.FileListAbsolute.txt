@@ -9,3 +9,16 @@ D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculador
 D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
 D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\bin\Debug\Entidades.dll
 D:\VisualStudio Proyectos\TP_01_2018_Vargas\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.exe.CodeAnalysisLog.xml
+C:\Users\GabrielaPatricia\Desktop\TP_01_2018_Vargas\MiCalculadora\bin\Debug\MiCalculadora.exe.lastcodeanalysissucceeded

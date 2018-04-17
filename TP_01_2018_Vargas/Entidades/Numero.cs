@@ -129,6 +129,29 @@ namespace Entidades
             double num2 = Convert.ToDouble(numDos);
             return num1 / num2;
         }
+        public static bool operator !=(Numero num2, int cero)
+        {
+            bool retorno = false;
+
+            if (num2.numero != cero)
+                retorno = true;
+            return retorno;
+        }
+        public static bool operator ==(Numero num2, int cero)
+        {
+            return !(num2.numero != cero);
+        }
+        
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
 
     }
 }

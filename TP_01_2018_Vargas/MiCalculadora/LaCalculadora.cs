@@ -14,6 +14,8 @@ namespace MiCalculadora
 {
     public partial class LaCalculadora : Form
     {
+       
+
         
         public LaCalculadora()
         {
@@ -23,6 +25,7 @@ namespace MiCalculadora
             this.CenterToScreen();
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
             this.Width = 500;
+
 
             cmbOperador.Items.Add("+");
             cmbOperador.Items.Add("-");
@@ -80,9 +83,20 @@ namespace MiCalculadora
 
         private void btnBinario_Click(object sender, EventArgs e)
         {
-            c
+
+            Numero num = new Numero(this.lblResultado.Text);
+            lblResultado.Text = num.DecimalBinario(this.lblResultado.Text);
         }
 
+        private void btnDecimal_Click(object sender, EventArgs e)
+        {
+            Numero num = new Numero(lblResultado.Text);
+            lblResultado.Text = num.BinarioDecimal(lblResultado.Text);
+        }
 
+        private void NumeroDos_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -47,6 +47,7 @@
             this.btnDecimal.TabIndex = 0;
             this.btnDecimal.Text = "Decimal";
             this.btnDecimal.UseVisualStyleBackColor = true;
+            this.btnDecimal.Click += new System.EventHandler(this.btnDecimal_Click);
             // 
             // btnBinario
             // 
@@ -90,6 +91,7 @@
             this.NumeroDos.Name = "NumeroDos";
             this.NumeroDos.Size = new System.Drawing.Size(100, 22);
             this.NumeroDos.TabIndex = 9;
+            this.NumeroDos.TextChanged += new System.EventHandler(this.NumeroDos_TextChanged);
             // 
             // btnOperar
             // 
