@@ -103,31 +103,23 @@ namespace Entidades
         }
 
         public static double operator +(Numero  numUno, Numero numDos)
-        {
-            double num1 = Convert.ToDouble(numUno);
-            double num2 = Convert.ToDouble(numDos);
-           return num1 + num2;
+        {         
+           return numUno.numero + numDos.numero;
         }
 
         public static double operator -(Numero numUno, Numero numDos)
         {
-            double num1 = Convert.ToDouble(numUno);
-            double num2 = Convert.ToDouble(numDos);
-            return num1 - num2;
+            return numUno.numero - numDos.numero;
         }
 
         public static double operator *(Numero numUno, Numero numDos)
         {
-            double num1 = Convert.ToDouble(numUno);
-            double num2 = Convert.ToDouble(numDos);
-            return num1 * num2;
+            return numUno.numero * numDos.numero;
         }
 
         public static double operator /(Numero numUno, Numero numDos)
         {
-            double num1 = Convert.ToDouble(numUno);
-            double num2 = Convert.ToDouble(numDos);
-            return num1 / num2;
+            return numUno.numero / numDos.numero;
         }
         public static bool operator !=(Numero num2, int cero)
         {
